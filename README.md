@@ -1,6 +1,7 @@
 # IBM-HR-Analytics-Dashboard
 
-This project utilizes IBM HR Analytics data to create a Power BI dashboard for a comprehensive view of employee dynamics. Insights on attrition rates, age distribution, departmental trends, and job satisfaction guide strategic initiatives for improved retention and organizational performance.
+This project utilizes IBM HR Analytics data to create a Power BI dashboard for a comprehensive view of employee dynamics. Insights on attrition rates, age distribution, and job satisfaction
+
 
 Dataset on Kaggle: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
